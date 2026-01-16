@@ -1,0 +1,21 @@
+
+@media (min-width:600px){
+    header{
+        color: aliceblue;
+    }
+
+    body  {
+        background-color: darkred;
+    }
+    
+    #pic{
+        color: aliceblue;    
+        background-color: coral;
+    }
+
+    #backBtn{
+        color: rgb(235, 241, 241);
+        background-color: darkorchid;
+    }
+}
+ 
